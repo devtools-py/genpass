@@ -72,7 +72,7 @@ if __name__ == '__main__':
 
     parser.add_argument(
         '-d',
-        help='characters to delete',
+        help='remove unwanted characters',
         type=str,
         metavar='STR',
         default=''
